@@ -1,0 +1,17 @@
+#u97-4,#u100-4,#u101-4,#u102-4
+{
+	position: relative;
+}
+
+#u97-4_img,#u100-4_img,#u101-4_img,#u102-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u91,#u249-4
+{
+	background-color: transparent;
+	position: relative;
+}
+

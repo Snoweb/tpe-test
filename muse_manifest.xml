@@ -1,0 +1,69 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1450283132807">
+  <folder name="assets">
+    <file name="eclair-raw.mov" crc="4073591607" mt="1445876534000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_gabarits---basic.css" crc="530492809" ref="tablet>experiences:tablet>index"/>
+      <file name="experiences.css" crc="3843096298" ref="tablet>experiences"/>
+      <file name="index.css" crc="3936478280" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3768688929" mt="1450134340510" redirect="true"/>
+    <file name="experiences.html" crc="3965194042" mt="1450134790493" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_gabarits---basic.css" crc="114449573" ref="phone>experiences:phone>index"/>
+      <file name="experiences.css" crc="192654380" ref="phone>experiences"/>
+      <file name="index.css" crc="404359824" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="467661024" mt="1450135007710" redirect="true"/>
+    <file name="experiences.html" crc="4006316675" mt="1450135007711" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="index.css" crc="384120672" ref="index"/>
+    <file name="master_blank.css" crc="425901009" ref="blank-1:blank-3:blank-2:blank:experiences-1:experiences-2"/>
+    <file name="master_gabarits---basic.css" crc="94642918" ref="index:experiences"/>
+    <file name="blank-1.css" crc="5011472" ref="blank-1"/>
+    <file name="blank-3.css" crc="281755393" ref="blank-3"/>
+    <file name="blank-2.css" crc="341874740" ref="blank-2"/>
+    <file name="blank.css" crc="4252126820" ref="blank"/>
+    <file name="experiences.css" crc="3819819643" ref="experiences"/>
+    <file name="experiences-1.css" crc="4202741175" ref="experiences-1"/>
+    <file name="experiences-2.css" crc="4011570333" ref="experiences-2"/>
+    <file name="download.css" crc="4002470085" ref="download"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:blank:blank-1:blank-2:blank-3:experiences:experiences-1:experiences-2:phone>index:phone>experiences:tablet>index:tablet>experiences:download"/>
+    <file name="museutils.js" crc="4136605575" ref="index:blank:blank-1:blank-2:blank-3:experiences:experiences-1:experiences-2:phone>index:phone>experiences:tablet>index:tablet>experiences:download"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:blank:blank-1:blank-2:blank-3:experiences:experiences-1:experiences-2:phone>index:phone>experiences:tablet>index:tablet>experiences:download"/>
+    <file name="museredirect.js" crc="305212102" ref="index:experiences"/>
+  </folder>
+  <folder name="images">
+    <file name="home.png" crc="3942669072" ref="index:experiences:phone>index:phone>experiences:tablet>index:tablet>experiences"/>
+    <file name="u97-4.png" crc="4215851892" ref="index:experiences"/>
+    <file name="u100-4.png" crc="313423311" ref="index:experiences"/>
+    <file name="u101-4.png" crc="210871264" ref="index:experiences"/>
+    <file name="u102-4.png" crc="181808122" ref="index:experiences"/>
+    <file name="u378-4.png" crc="4215851892" ref="phone>index:phone>experiences"/>
+    <file name="u380-4.png" crc="210871264" ref="phone>index:phone>experiences"/>
+    <file name="u379-4.png" crc="313423311" ref="phone>index:phone>experiences"/>
+    <file name="u381-4.png" crc="181808122" ref="phone>index:phone>experiences"/>
+    <file name="u334-4.png" crc="4215851892" ref="tablet>index:tablet>experiences"/>
+    <file name="u335-4.png" crc="313423311" ref="tablet>index:tablet>experiences"/>
+    <file name="u336-4.png" crc="210871264" ref="tablet>index:tablet>experiences"/>
+    <file name="u337-4.png" crc="181808122" ref="tablet>index:tablet>experiences"/>
+    <file name="test 1.swf" crc="4129694388" ref="blank-1"/>
+    <file name="test 2.swf" crc="3938727057" ref="blank-2"/>
+  </folder>
+  <file name="index.html" crc="3850827320" mt="1450134340580" redirect="true"/>
+  <file name="blank.html" crc="3831106029" mt="1450134326963" redirect="true"/>
+  <file name="blank-1.html" crc="4057900859" mt="1450212827486" redirect="true"/>
+  <file name="blank-2.html" crc="107426394" mt="1450283132506" redirect="true"/>
+  <file name="blank-3.html" crc="259025187" mt="1450134327905" redirect="true"/>
+  <file name="experiences.html" crc="187822292" mt="1450134802414" redirect="true"/>
+  <file name="experiences-1.html" crc="3962947851" mt="1450134324303" redirect="true"/>
+  <file name="experiences-2.html" crc="3806089640" mt="1450134325461" redirect="true"/>
+  <file name="download.html" crc="183769164" mt="1450135601594" redirect="true"/>
+</manifest>
